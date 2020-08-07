@@ -8,7 +8,8 @@ try
 }
 catch(PDOException $e)
 {
-    die($e->getMessage());
+//    die($e->getMessage());
+echo "<center><h1>PLEASE FIX settings.php file!</h1></center>";
 }
 
 ?>

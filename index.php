@@ -25,22 +25,22 @@ include('inc/functions.php');
 <div class="row">
 	<div class="content">
 		<div class="content-logo">
-			Server<span class="orange">Name</span>
+			Server<span class="blue">Name</span>
 		</div>
 
 		<div class="content-box">
 			<div class="content-box-content">
 				<form method="POST">
-					<label class="orange">Username</label>
+					<label class="blue">Username</label>
 					<input type="text" name="username" />
 
-					<label class="orange">Email</label>
+					<label class="blue">Email</label>
 					<input type="text" name="email" />
 
-					<label class="orange">Password</label>
+					<label class="blue">Password</label>
 					<input type="password" name="password" />
 
-					<label class="orange">Re-Password</label>
+					<label class="blue">Re-Password</label>
 					<input type="password" name="re-password" />
 
 					<center>
