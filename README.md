@@ -13,4 +13,4 @@ Site has been modified with some tweaks and layout changes. Site has been tested
 
 
 ## Screenshots
-![Preview](https://raw.githubusercontent.com/nolt/Registration-Page/img/preview.png)
+![preview](https://raw.githubusercontent.com/nolt/Registration-Page/master/img/preview.png)
