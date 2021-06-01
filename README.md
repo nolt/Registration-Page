@@ -14,3 +14,6 @@ Site has been modified with some tweaks and layout changes. Site has been tested
 
 ## Screenshots
 ![preview](https://raw.githubusercontent.com/nolt/Registration-Page/master/img/preview.jpg)
+
+## Contributions
+Thanks to [r-o-b-o-t-o](https://github.com/r-o-b-o-t-o) for help with registration fix.
