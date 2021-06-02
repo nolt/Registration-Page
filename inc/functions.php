@@ -1,6 +1,5 @@
 <?php
 
-
  function getregdata($username, $password)
   {
 	// generate a random salt
@@ -118,9 +117,9 @@ function Register()
 				{
 					if(Captcha($secret, $captcha, $ip_address))
 					{
-						$regdata = getregadata($username, $password);
+						$regdata = getregdata($username, $password);
 						$salt = $regdata[0];
-						$verifier = $regata[1];
+						$verifier = $regdata[1];
 
 						$data = $con->prepare('INSERT INTO account (username, salt, verifier, email, last_ip, expansion) 
 							VALUES(:username, :salt, :verifier, :email, :ip, :expansion)');
